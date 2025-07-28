@@ -8,3 +8,5 @@ Designed a Cybersecurity architecture plan for Nexora Fintech, developing the "C
 Prepared a concise executive slide deck outlining global cybersecurity trends, key opportunities, internal assessment summary, a strategic roadmap, success metrics, and recommendations.
 # 3
 Incorporated diagrams and frameworks to visualize threat models and security controls. Proposed measures to enhance fintech system resilience against emerging threats. 
+# Project architectural Design
+[NEXORA_FINTECH_DANIEL_YEWENU.pdf](https://github.com/user-attachments/files/21473015/NEXORA_FINTECH_DANIEL_YEWENU.pdf)
